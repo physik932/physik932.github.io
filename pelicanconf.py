@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Chosen theme from pelican-themes
-THEME = "/Users/rishi.sheth/p/pelican-themes/storm"
+THEME = "/Users/rishi.sheth/p/pelican-themes/Flex"
