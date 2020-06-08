@@ -2,11 +2,10 @@ title: About
 date: 2020-06-07
 
 ## who
-I live in Denver.  I like software, hiking, cats, and my beautiful partner, Mack.
+I like software, hiking, cats, and my beautiful partner, Mack.
 
 ## what
-I'm a Backend / Platform Senior Engineer learning about DevOps at [Ibotta](www.ibotta.com).
+I'm a Senior Platform Engineer at <a href="http://www.ibotta.com" target=_blank>Ibotta</a>.
 
 ## where
-- <a href="https://github.com/physik932" target=_blank>GitHub</a>
-- <a href="https://www.linkedin.com/in/rishiysheth/" target=_blank>LinkedIn</a>
+Denver, CO

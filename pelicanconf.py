@@ -19,8 +19,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-LINKS = (('GitHub', 'https://github.com/physik932'),
-          ('LinkedIn', 'https://www.linkedin.com/in/rishiysheth/'),)
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/rishiysheth'),
+          ('github', 'https://github.com/physik932'))
 
 DEFAULT_PAGINATION = 10
 
