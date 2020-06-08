@@ -19,15 +19,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+LINKS = (('GitHub', 'https://github.com/physik932'),
+          ('LinkedIn', 'https://www.linkedin.com/in/rishiysheth/'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -39,6 +32,10 @@ THEME = "/Users/rishi.sheth/p/pelican-themes/Flex"
 THEME_COLOR = "dark"
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = "true"
 THEME_COLOR_ENABLE_USER_OVERRIDE = "true"
+PYGMENTS_STYLE = 'monokai'
 
-SITESUBTITLE="Cats\nGifs"
-SITELOGO="/Users/rishi.sheth/p/physik932.github.io/content/images/me.jpg"
+SITESUBTITLE=""
+SITELOGO="/images/me.jpg"
+
+DISABLE_URL_HASH="true"
+COPYRIGHT_YEAR = 2020
