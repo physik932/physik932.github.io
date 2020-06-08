@@ -36,3 +36,9 @@ DEFAULT_PAGINATION = 10
 
 # Chosen theme from pelican-themes
 THEME = "/Users/rishi.sheth/p/pelican-themes/Flex"
+THEME_COLOR = "dark"
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = "true"
+THEME_COLOR_ENABLE_USER_OVERRIDE = "true"
+
+SITESUBTITLE="Cats\nGifs"
+SITELOGO="/Users/rishi.sheth/p/physik932.github.io/content/images/me.jpg"
